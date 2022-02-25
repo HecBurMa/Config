@@ -1,0 +1,62 @@
+*
+{
+    margin: 0 auto;
+    padding: 0;
+}
+
+body
+{
+width: 100%;
+background: url(../imagenes/fondo.jpg);
+}
+
+.page
+{
+  width:30%;
+  text-align: center;
+  border: 1px black solid;
+  margin-top: 15px;
+  background-color: #463373;
+  color: bisque;
+}
+
+select
+{
+    margin-bottom: 50px;
+}
+
+.ramh
+{
+    margin-bottom: 30px;
+}
+
+.sug
+{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.conf
+{
+    margin-bottom: 20px;
+}
+
+.valoracion
+{
+    margin: 20px;
+}
+
+.valo
+{
+    margin-top: 10px;
+}
+
+.boto
+{
+    padding: 8px;
+}
+
+footer
+{
+    margin: 10px;
+}
